@@ -1,6 +1,6 @@
 # JS Convert
 
-这个仓库指在对比 `tsc`、`babel` 等 JS 转换工具将 `ESModule` 转换为 `CommonJS` 时的种种差异。
+这个仓库指在查看 `tsc`、`babel` 等 JS 转换工具将 `ESModule` 转换为 `CommonJS` 时的种种不同。
 
 ## 测试情景
 
